@@ -1,0 +1,13 @@
+what's done
+- room_result.php [lect room result change to room_result]
+- labbooking.html [already add form action]
+- insert_book.php [receive input and put in the database]
+- insert_ceptject.php [complete]
+- spacedashnew into php
+- spaceroomhistory into php
+- all complete
+
+
+note:
+-at lectdashnew the usename reference may need to change to more proper query
+like instead of username equals data in DB, let username equals $_GET something from login
